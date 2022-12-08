@@ -1,0 +1,53 @@
+/* add your css styles here! */
+.jumbotron {
+    height: 50vh;
+    margin-bottom: 5vh;
+    background-color: transparent;
+    justify-content: center;
+}
+.navbar {
+    background-color: rgba(72, 15, 15, 0.7);
+    ;
+}
+.img {
+    margin-top: 2rem;
+    margin-left: 0.5rem;
+}
+
+.p {
+    display: block;
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    margin-inline-start: 0px;
+    margin-inline-end: 5px;
+}
+.container {
+    padding: 20px;
+}
+.col-sm-4 {
+    padding: 20px;
+    background-color: beige;
+    outline-style:dashed;
+}
+.text1 {
+    width: 10vh;
+}
+.h2 {
+    padding: 2rem;
+}
+.h5 {
+    padding: 5vh;
+}
+.footer {
+    background-color:rgba(72, 15, 15, 0.2);
+    ;
+    height: 35vh;
+}
+.nav {
+    justify-content: center;
+}
+.textarea {
+    padding-top: 2rem;
+    padding-bottom: 1rem;
+    text-align: center;
+}
